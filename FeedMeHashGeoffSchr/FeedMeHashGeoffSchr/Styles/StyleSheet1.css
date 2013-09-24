@@ -1,0 +1,21 @@
+﻿body {
+	font-family: sans-serif;
+	color: darkslateblue;
+	margin-left:40px;
+	margin-top:15px;
+	width:650px;
+}
+.inputBox
+{
+	width:400px;
+}
+.tBtn
+{
+	width:230px;
+	float:right;
+}
+.displayDiv
+{
+	border:solid 1px;
+	height:auto;
+}
